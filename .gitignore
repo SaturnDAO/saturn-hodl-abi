@@ -1,0 +1,17 @@
+node_modules
+dist
+.DS_Store
+yarn.lock
+src_old
+.next
+package-lock.json
+.dev
+.env
+*.db
+*.db-journal
+
+/ethers
+/web3
+next-env.d.ts
+/*.js
+/*.d.ts
